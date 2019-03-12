@@ -4,6 +4,16 @@ Original python2.7 porting of Dr. Gregory L. Charvat's MIT course matlab script 
 
 [radar_sar_rma](https://github.com/Jach/radar_sar_rma)
 
+[Course material](https://ocw.mit.edu/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/)
+
+## Lab1
+
+Completed conversion
+
+## Lab2
+
+WIP. Current result doesn't seem correct, will upload after fix
+
 
 ===
 
